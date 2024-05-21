@@ -1,10 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Suhail Ahmad</h1>
 <h3 align="center">I am a passionate Web developer....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RBSuhail&label=Profile%20views&color=0e75b6&style=flat" alt="RBSuhail" /> </p>
-
-
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
@@ -43,7 +40,12 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RBSuhail&show_icons=true&locale=en&layout=compact" alt="RBSuhail" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RBSuhail&show_icons=true&locale=en&layout=compact&theme=dark" alt="RBSuhail" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RBSuhail&show_icons=true&locale=en&theme=dark" alt="RBSuhail" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RBSuhail&theme=dark" alt="RBSuhail" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RBSuhail&show_icons=true&locale=en" alt="RBSuhail" /></p>
 
